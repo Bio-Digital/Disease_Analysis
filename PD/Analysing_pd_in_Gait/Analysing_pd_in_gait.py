@@ -1,3 +1,5 @@
+# DB = https://physionet.org/content/gaitpdb/1.0.0/
+
 from itertools import count
 from numpy import NaN, array, dtype
 import numpy as np
