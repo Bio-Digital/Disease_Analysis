@@ -25,7 +25,7 @@ import seaborn as sb
 
 import decimal
 
-df = pd.read_csv(r"C:\Users\Freemason\Documents\code\TestAix\PD\PD_voice.csv")
+df = pd.read_csv(r"C:\Users\Freemason\Documents\code\TestAix\PD\Analysing_pd_Voice\PD_voice.csv")
 
 
 df_corr = df.corr()
