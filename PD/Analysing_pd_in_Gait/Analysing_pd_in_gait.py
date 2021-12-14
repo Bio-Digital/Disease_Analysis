@@ -23,7 +23,7 @@ import seaborn as sb
 
 import decimal
 
-df = pd.read_excel(r"C:\Users\Freemason\Documents\code\TestAix\PD\demographics.xls")
+df = pd.read_excel(r"C:\Users\Freemason\Documents\code\TestAix\PD\Analysing_pd_in_Gait\demographics.xls")
 df.rename({'UPDRS':"UPDRScale"},axis=1,inplace=True)
 # df.dropna(subset= ["Speed_01 (m/sec)"], inplace=True)
 # replace_To = ''
