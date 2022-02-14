@@ -1,0 +1,11 @@
+Things from meeting
+
+Try different moving averages (3, instead of 30)
+Use code to identify patients with abnormal levels
+Plot graph with mean of all patients at different time steps (hr mean at time 0)
+Group patients into different age groups (70-80), plot averages for groups
+Check individual patient's fluctuations- If any of their values go outside their
+standard deviation
+Use pandas
+Research on double/triple exponential smoothing to make predictions at time + n
+Double exponential smoothing tends to overfit
